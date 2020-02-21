@@ -1,0 +1,3 @@
+[submodule "goyaccfmt"]
+	path = goyaccfmt
+	url = https://github.com/wangkuiyi/goyaccfmt
