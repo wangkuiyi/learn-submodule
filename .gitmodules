@@ -1,3 +1,4 @@
 [submodule "goyaccfmt"]
 	path = goyaccfmt
 	url = https://github.com/wangkuiyi/goyaccfmt
+	branch = 95470d7fdd1c6e8fc2e300063e832fb4ab80d21c
